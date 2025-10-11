@@ -62,7 +62,7 @@ Dada uma lista que armazena dados do tipo char, implemente uma função que remo
 
 ### Questão 10
 
-Considere que a struct abaixo está armazenada na sua lista. Faça uma função para buscar o produto de menor preço. A função deve retornar se a operação foi possível ou não.
+Considere que a struct abaixo está armazenada na sua lista. Faça uma função para buscar e retornar o produto de menor preço. 
 
 ```c
 struct produto {
