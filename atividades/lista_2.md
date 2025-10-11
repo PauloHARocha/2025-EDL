@@ -2,7 +2,7 @@
 
 ### Questão 1
 
-Implemente uma lista simplesmente encadeada, que deve conter os métodos:
+Implemente uma lista unicamente encadeada, que deve conter os métodos:
 
 cria_lista, libera_lista, lista_vazia, tamanho_lista, insere_inicio, insere_final, remove_inicio, remove_final, imprime_lista, imprime_lista_reverso, busca_valor.
 
@@ -18,7 +18,7 @@ cria_lista, libera_lista, lista_vazia, tamanho_lista,insere_inicio, insere_final
 
 ### Questão 3
 
-Implemente uma lista circular simplesmente encadeada, que deve conter os métodos:
+Implemente uma lista circular unicamente encadeada, que deve conter os métodos:
 
 cria_lista, libera_lista, lista_vazia, tamanho_lista,insere_inicio, insere_final, remove_inicio, remove_final, imprime_lista, imprime_lista_reverso, busca_valor.
 
