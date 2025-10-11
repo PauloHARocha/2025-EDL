@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+settings.json
+
+atividades/fila
+atividades/pilha
+atividades/lista
+
+review/
