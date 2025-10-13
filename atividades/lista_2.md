@@ -4,7 +4,7 @@
 
 Implemente uma lista unicamente encadeada, que deve conter os métodos:
 
-cria_lista, libera_lista, lista_vazia, tamanho_lista, insere_inicio, insere_final, remove_inicio, remove_final, imprime_lista, imprime_lista_reverso, busca_valor.
+cria_lista, libera_lista, lista_vazia, tamanho_lista, insere_inicio, insere_final, remove_inicio, remove_final, imprime_lista, imprime_lista_reverso, busca_valor, consulta_lista_posicao.
 
 ---
 
@@ -12,7 +12,7 @@ cria_lista, libera_lista, lista_vazia, tamanho_lista, insere_inicio, insere_fina
 
 Implemente uma lista duplamente encadeada, que deve conter os métodos:
 
-cria_lista, libera_lista, lista_vazia, tamanho_lista,insere_inicio, insere_final, remove_inicio, remove_final, imprime_lista, imprime_lista_reverso, busca_valor.
+cria_lista, libera_lista, lista_vazia, tamanho_lista,insere_inicio, insere_final, remove_inicio, remove_final, imprime_lista, imprime_lista_reverso, busca_valor, consulta_lista_posicao.
 
 ---
 
@@ -20,7 +20,7 @@ cria_lista, libera_lista, lista_vazia, tamanho_lista,insere_inicio, insere_final
 
 Implemente uma lista circular unicamente encadeada, que deve conter os métodos:
 
-cria_lista, libera_lista, lista_vazia, tamanho_lista,insere_inicio, insere_final, remove_inicio, remove_final, imprime_lista, imprime_lista_reverso, busca_valor.
+cria_lista, libera_lista, lista_vazia, tamanho_lista,insere_inicio, insere_final, remove_inicio, remove_final, imprime_lista, imprime_lista_reverso, busca_valor, consulta_lista_posicao.
 
 ---
 
