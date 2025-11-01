@@ -72,3 +72,56 @@ struct produto {
 	int qtdeEstoque;
 };
 ```
+---
+
+### Questão 11
+
+Implemente uma fila dinamicamente encadeada, que deve conter os métodos:
+
+cria_fila, libera_fila, fila_vazia, tamanho_fila, enfileira, desenfileira, frente, imprime_fila.
+
+---
+
+### Questão 12
+
+Implemente uma pilha dinamicamente encadeada, que deve conter os métodos:
+
+cria_pilha, libera_pilha, pilha_vazia, tamanho_pilha, empilha, desempilha, topo, imprime_pilha.
+
+---
+
+### Questão 13
+
+Dado uma pilha que armazene números, escreva uma função que forneça o maior, o menor e a média aritmética dos elementos da pilha.
+
+---
+
+### Questão 14
+
+Desenvolva uma função para testar se uma pilha P1 tem mais elementos que uma pilha P2.
+
+---
+
+### Questão 15
+
+Desenvolva uma função para testar se duas pilhas P1 e P2 são iguais.
+
+---
+
+### Questão 16
+
+Desenvolva uma função para inverter a posição dos elementos de uma pilha P.
+
+---
+
+### Questão 17
+
+Desenvolva uma função para testar se uma fila F1 tem mais elementos do que uma fila F2.
+
+---
+
+### Questão 18
+
+Escreva uma função que, dadas duas filas, concatene as duas filas. Retorne a fila concatenada em F1. F2 deve ficar vazia.
+
+---
